@@ -8,7 +8,7 @@ body{
     margin: auto;
 }
 
-.header-container{
+.header{
     display: flex;
     height: 50px;
     justify-content: space-evenly;
@@ -394,9 +394,8 @@ body{
     position: absolute;
     height: 700px;
     width: 112% ;
-    background-color: #EAF2FF
-    ;
-    z-index: -2;
+    background-color: #EAF2FF;
+    z-index: -1;
     top: 40%;
     left: -10%;
 
@@ -413,7 +412,6 @@ body{
     background-image: url("../images/pattern2.png");
     padding: 80px;
     background-repeat: no-repeat;
-    background-position-x: -20px;
 }
 
 .subscribe-container .left-subs{
