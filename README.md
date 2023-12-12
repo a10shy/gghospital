@@ -18,5 +18,5 @@ The page includes the following sections:
 9. Footer 
 
 ## Screenshots
-![gghospitalfullpage](https://github.com/a10shy/gghospital/assets/70568627/86a01c17-0f77-4f72-a114-06f7b6de4005)
+![Web capture_12-12-2023_164857_127 0 0 1](https://github.com/a10shy/gghospital/assets/70568627/68a4d2f1-d1ef-4a53-96f0-c1ca7e248eff)
 
